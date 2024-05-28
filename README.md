@@ -16,9 +16,9 @@ Qt C++ Positioning Application Tutorial : https://www.youtube.com/playlist?list=
 
 Qt With OpenCV : https://www.youtube.com/playlist?list=PLh0cogPqXcJNEhszlaONshdubdDOF8GRh
 
-Answers And Solved Problems : https://www.youtube.com/playlist?list=PLh0cogPqXcJMhDSWYHJX0rBQp3AqiDFBl
-
 Qt QML Application Tutorial : https://www.youtube.com/playlist?list=PLh0cogPqXcJP0VyTRfiTdNsuR5jOeJ_YB
+
+Answers And Solved Problems : https://www.youtube.com/playlist?list=PLh0cogPqXcJMhDSWYHJX0rBQp3AqiDFBl
 
 Instagram : https://instagram.com/qtwithketan
 
