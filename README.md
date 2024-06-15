@@ -1,4 +1,4 @@
-<a>https://buymeacoffee.com/qtwithketan</a>
+<a data-name="bmc-button" data-slug="qtwithketan" data-color="#FFDD00" data-emoji="☕" data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" >https://buymeacoffee.com/qtwithketan</a>
 
 Qt C++ GUI Application Tutorial : 
 
